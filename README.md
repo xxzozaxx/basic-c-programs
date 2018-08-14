@@ -7,10 +7,8 @@ these example have been extracted from this book
 I have compiled and run this example on gcc version 6.2.1  (Red Hat 6.2.1-2) (GCC) (fedora25 distro)
 
 
-the link to download book(
-https://www.google.com.eg/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjJnM_bkfTQAhWG0YMKHTW-C7cQFggaMAA&url=http%3A%2F%2Ffac.ksu.edu.sa%2Fsites%2Fdefault%2Ffiles%2FObjectOrientedProgramminginC4thEdition.pdf&usg=AFQjCNFfRFp2tlWY-U46EsZRZP0eUMsqZQ&sig2=8DRkwnViRV-9sBfXs9535w&cad=rja  
-
-)
+[the link to download book](
+https://www.google.com.eg/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjJnM_bkfTQAhWG0YMKHTW-C7cQFggaMAA&url=http%3A%2F%2Ffac.ksu.edu.sa%2Fsites%2Fdefault%2Ffiles%2FObjectOrientedProgramminginC4thEdition.pdf&usg=AFQjCNFfRFp2tlWY-U46EsZRZP0eUMsqZQ&sig2=8DRkwnViRV-9sBfXs9535w&cad=rja)
 
 
  photo program's has been taken from this site 
